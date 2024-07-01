@@ -4,14 +4,16 @@
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me arunr6506@gmail.com
 
-
-
-- ### I Code In
+### I Code In
+<img width="50" height="50"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img width="50" height="50"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img width="50" height="50"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 - 
 - 
+- 
 
 
-[!][Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC24JZoL7vo3wWUJO8eap5VQ)]
-[![GitHub Stats](https://stats.quira.sh/Arunraj003/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Arunraj003)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/arun03?theme=dark&font=Marcellus&ext=contest)
+[![GitHub Stats](https://stats.quira.sh/Arunraj003/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Arunraj003)
 
