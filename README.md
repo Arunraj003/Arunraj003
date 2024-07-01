@@ -2,11 +2,11 @@
 
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://arunrajportfolio.vercel.app/)
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Frontend Developement / React
-- 🤔 I’m looking for job as Frontend Developer
-- 💬 Ask me about Tech
+- 🔭 Here's my [portfolio](https://arunrajportfolio.vercel.app/) <br />
+- 🌱 I’m currently learning React  <br />
+- 👯 I’m looking to collaborate on Frontend Developement / React  <br />
+- 🤔 I’m looking for job as Frontend Developer <br />
+- 💬 Ask me about Tech <br />
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arunraj03/)
 - ⚡ Fun fact: I'm small gaming youtuber.
