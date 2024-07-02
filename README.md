@@ -10,8 +10,6 @@
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/arunraj003/)]
 - ⚡ Fun fact: I'm small gaming youtuber.
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
 
 ### I code in
 <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/html-5.png" alt="html-5"/><img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/javascript.png" alt="javascript"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
