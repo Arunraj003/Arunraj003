@@ -19,9 +19,4 @@
 
 ### 💻 Workspace Spec
 ``` Government Laptop 4Gb Ram ```
-
-![Arun Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunraj003&theme=dark&show_icons=true&&hide=issues,contribs)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/arun03?theme=dark&font=Marcellus&ext=contest)
-
-[![Arun Raj github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunraj003&bg_color=000000&color=ffffff&line=00ff33&point=ffffff&area=true&hide_border=true)](https://github.com/Arunraj003/github-readme-activity-graph)
+![Arunraj003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunraj003&theme=dark&hide_border=true)
