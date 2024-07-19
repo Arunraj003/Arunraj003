@@ -19,4 +19,6 @@
 
 ### 💻 Workspace Spec
 ``` Government Laptop 4Gb Ram ```
-![Arunraj003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunraj003&theme=dark&hide_border=true)
+
+## Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arunraj003&theme=blue-green&hide_total_contributions=true)](https://git.io/streak-stats)
