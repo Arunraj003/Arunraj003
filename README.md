@@ -21,4 +21,4 @@
 ``` Government Laptop 4Gb Ram ```
 
 ## Github Streak
-[![Arunraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunraj003&theme=dracula)](https://github.com/Arunraj003/github-readme-activity-graph)
+[![Arunraj's github activity graph]
