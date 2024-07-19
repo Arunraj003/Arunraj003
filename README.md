@@ -21,4 +21,4 @@
 ``` Government Laptop 4Gb Ram ```
 
 ## Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arunraj003&theme=blue-green&hide_total_contributions=true)](https://git.io/streak-stats)
+[![Arunraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunraj003&theme=dracula)](https://github.com/Arunraj003/github-readme-activity-graph)
