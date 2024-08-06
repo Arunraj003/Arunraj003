@@ -8,7 +8,8 @@
 - 🤔 I’m looking for job as Frontend Developer <br />
 - 💬 Ask me about Tech <br />
 - 📫 How to reach me :
-<br /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />https://www.linkedin.com/in/arunraj003/
+<br /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+https://www.linkedin.com/in/arunraj003/
 - ⚡ Fun fact: I'm small gaming youtuber.
 
 ### I code in
