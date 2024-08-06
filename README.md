@@ -8,7 +8,7 @@
 - 🤔 I’m looking for job as Frontend Developer <br />
 - 💬 Ask me about Tech <br />
 - 📫 How to reach me :
-<br /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/arunraj003/)
+<br /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />https://www.linkedin.com/in/arunraj003/
 - ⚡ Fun fact: I'm small gaming youtuber.
 
 ### I code in
@@ -18,8 +18,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
 
 ### 💻 Workspace Spec
-``` Government Laptop 4Gb Ram ```
 
 ## Github Streak
-[![Arunraj's github activity graph]
-[![Arun Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunraj03&bg_color=000000&color=11ff00&line=1eff00&point=00ff11&area=true&hide_border=true)
+[![Arunraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunraj003&bg_color=000000&color=11ff00&line=ffffff&point=00ff11&area=true&hide_border=true)
