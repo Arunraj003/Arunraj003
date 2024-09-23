@@ -19,7 +19,6 @@ https://www.linkedin.com/in/arunraj003/
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
 
-### 💻 Workspace Spec
 
 ## Github Streak
 [![Arunraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunraj003&bg_color=000000&color=11ff00&line=ffffff&point=00ff11&area=true&hide_border=true)
